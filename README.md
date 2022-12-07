@@ -4,6 +4,5 @@ In this tree each node has an extra bit, and that bit is often interpreted as th
 The code contains following functions :
   1) Traverse 
   2) Insert 
-  3) Search 
-  4) Delete 
+  3) Delete 
 Number 0 is used to indicate black color and 1 to red.
